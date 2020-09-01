@@ -1,5 +1,5 @@
 
-Proyecto backend de restaurante cuyo objetivo es proveer servicios REST con las funcionalidades requeridas.
+Proyecto backend 
 
 ### Tecnologias utilizadas:
 - Maven
